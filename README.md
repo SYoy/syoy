@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me 👋
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Industrial AI Systems
+- 📫 How to reach me: [marius.steger@renumics.com](mailto:marius.steger@renumics.com)
+  
+## Where to find me
+- [Homepage](https://syoy.github.io/)
+- [Work](https://renumics.com/)
+- [LinkedIn](https://www.linkedin.com/in/marius-steger/)
 
-<!--
-**SYoy/syoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contributing to
+- [Spotlight (Use Cases) 1k✨](https://github.com/Renumics/spotlight): Interactively explore unstructured datasets from your dataframe.
