@@ -6,7 +6,7 @@
   
 ## Where to find me
 - [Homepage](https://syoy.github.io/)
-- [Work](https://renumics.com/)
+- [Work @ Renumics](https://renumics.com/)
 - [LinkedIn](https://www.linkedin.com/in/marius-steger/)
 
 ## Contributing to
