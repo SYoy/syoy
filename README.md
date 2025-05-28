@@ -10,4 +10,5 @@
 - [LinkedIn](https://www.linkedin.com/in/marius-steger/)
 
 ## Contributing to
+- [Lexio](https://github.com/Renumics/lexio)
 - [Spotlight (Use Cases) 1k✨](https://github.com/Renumics/spotlight): Interactively explore unstructured datasets from your dataframe.
