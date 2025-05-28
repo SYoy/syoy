@@ -1,7 +1,7 @@
 # About Me 👋
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning React (intermediate level)
-- 🔭 I’m currently working on Industrial AI Systems & RAG Applications
+- 🔭 I’m currently working on RAG Applications & Industrial AI Systems
 - 📫 How to reach me: [marius.steger@renumics.com](mailto:marius.steger@renumics.com)
   
 ## Where to find me
